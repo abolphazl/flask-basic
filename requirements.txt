@@ -1,0 +1,4 @@
+flask-sqlalchemy==3.0.3 --install-option='--user'
+sqlalchemy==2.0.3 --install-option='--user'
+Flask-Migrate==4.0.4
+Flask==2.2.2
